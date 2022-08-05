@@ -5,11 +5,11 @@
     "main": "build/index.js",
     "typings": "build/index.d.ts",
     "peerDependencies": {
-        "react": "^16.8.0"
+        "react": "^17.0.0"
     },
     "devDependencies": {
         "@types/react": "^16.9.2",
-        "react": "^16.8.0",
+        "react": "^17.0.0",
         "typescript": "^3.6.2"
     },
     "homepage": "https://github.com/springload/react-iframe-click/",
